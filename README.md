@@ -3,7 +3,7 @@ Extension for implenting project invoice customer text
 
 The default text is set up in General ledger/Journal setup/Default descriptions
 
-The texts marked "Project - invoice, customer" and "Projext -credit note,customer is not implemented.
+The texts marked "Project - invoice, customer" and "Projext -credit note,customer" is not implemented.
 
 The code needed to add this functionality is
 
