@@ -43,7 +43,7 @@ final class CustVendVoucher_ADVLegal_Extension
                     ADVtransactionTextContext.setTableBuffer(ProjInvoiceTable);
 
                     transactionTxt.setTransactionTextContext(ADVtransactionTextContext);
-			      }
+            }
         }
 
         return transactionTxt;
