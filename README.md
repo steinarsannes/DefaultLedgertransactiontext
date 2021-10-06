@@ -1,4 +1,4 @@
-# DefaultLedgertransactiontext
+# Default Ledgertransaction text
 Extension for implenting project invoice customer text
 
 The default text is set up in General ledger/Journal setup/Default descriptions
